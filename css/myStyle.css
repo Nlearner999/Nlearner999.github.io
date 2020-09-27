@@ -1,1 +1,17 @@
+h3 {
+    text-align: center;
+}
 
+body {
+    background-color: lemonchiffon;
+}
+
+td {
+    padding-top: .5em;
+    padding-bottom: 2em;
+
+}
+
+.second-column {
+    margin-left:2em;
+}
